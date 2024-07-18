@@ -87,4 +87,3 @@ async function createNote(note) {
     });
     fetchNotes();
 }
-console.log("Hi")
